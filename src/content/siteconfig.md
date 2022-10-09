@@ -16,6 +16,6 @@ menu:
     link: "/contact"
   - id: "menu-item-5"
     name: "Términos y condiciones"
-    link: "/contact"
+    link: "/terms"
 ---
 
