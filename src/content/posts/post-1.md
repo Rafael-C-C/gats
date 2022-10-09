@@ -3,7 +3,7 @@ type: "post"
 date: "2021-01-05"
 image: "../../images/blog-post-1.jpg"
 slug: "post-1"
-title: "Blog Post 1"
+title: "Sobre nosotros"
 published: true
 ---
 

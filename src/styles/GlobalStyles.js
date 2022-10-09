@@ -4,10 +4,10 @@ import NunitoBlack from "fonts/Nunito-Black.ttf"
 
 export const colors = {
   white: "#fff",
-  darkGrey: "#1a202c",
+  darkGrey: "#000000",
   deepDarkGrey: "#404040",
-  blueShade1: "#215973",
-  blueShade2: "#6fadc6",
+  blueShade1: "#047260",
+  blueShade2: "#047260",
   blueShade3: "#d1e1e9",
 }
 export const darkTheme = {

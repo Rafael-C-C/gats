@@ -1,9 +1,9 @@
 ---
 type: "post"
 date: "2021-01-07"
-image: "../../images/blog-post-3.jpg"
+image: "../../images/ban.jpeg"
 slug: "post-2"
-title: "Blog Post 3"
+title: "Productos"
 published: true
 ---
 

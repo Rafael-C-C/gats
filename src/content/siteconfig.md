@@ -1,11 +1,21 @@
 ---
 type: "config"
-logo: "../images/blog-logo.svg"
+logo: "../images/logo.png"
 menu:
   - id: "menu-item-1"
-    name: "About"
+    name: "Sobre nosotros"
     link: "/about"
   - id: "menu-item-2"
-    name: "Contact"
+    name: "Contacto"
+    link: "/contact"
+  - id: "menu-item-3"
+    name: "Productos"
+    link: "/contact"
+  - id: "menu-item-4"
+    name: "Servicios"
+    link: "/contact"
+  - id: "menu-item-5"
+    name: "Términos y condiciones"
     link: "/contact"
 ---
+

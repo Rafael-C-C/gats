@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog`,
+    title: `YajaDoc`,
     description: `Gatsby Tutorial site`,
     author: `@gatsbyjs`,
   },
