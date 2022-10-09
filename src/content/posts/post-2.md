@@ -6,6 +6,9 @@ slug: "post-2"
 title: "Servicios"
 published: true
 ---
+<head>
+	<link rel="stylesheet" href="src/styles/style.css">
+</head>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consequat tempus enim, et pretium leo consectetur sed. Sed dapibus arcu dui, non mollis mi interdum a. Nulla in risus maximus, ultricies nulla ac, rhoncus arcu. Nam sit amet leo quis urna feugiat tempor. Vestibulum tincidunt vitae lectus sit amet tincidunt. Pellentesque et eleifend lacus. In ut risus massa. Aliquam vitae est luctus, mollis turpis porta, semper arcu. Sed tincidunt vitae metus et bibendum. Nunc volutpat enim sagittis lorem pulvinar tempus.
 
