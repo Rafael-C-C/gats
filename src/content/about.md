@@ -1,10 +1,14 @@
 ---
 type: "page"
 date: "2020-12-27"
-image: "../images/about.jpg"
+image: "../images/contact.jpg"
 slug: "about"
-title: "Sobre nosotros"
+title: "Visita nuestras redes sociales:"
 ---
+
+### <a href="https://www.youtube.com/channel/UCFNb73tmtkYArn_DpGyyX3A">YouTube -</a> <a href="https://www.facebook.com/Yajadoc">Facebook -</a> <a href="https://twitter.com/IMAC_AC">Twitter -</a> <a href="https://www.linkedin.com/company/2609786/">LinkedIn</a>
+#    
+# Sobre nosotros
 
 El Instituto Mexicano de la Administración del Conocimiento, A.C., (IMAC por sus siglas en español); es una Institución integrada por especialistas con más de 25 años de experiencia en el campo de las tecnologías y ciencias de la información. 
 
