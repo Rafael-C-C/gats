@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `YajaDoc`,
-    description: `Gatsby Tutorial site`,
+    description: `Gatsby Terms and conditions site`,
     author: `@gatsbyjs`,
   },
   plugins: [

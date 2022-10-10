@@ -21,3 +21,6 @@ El IMAC imparte conferencias en las cuales se abordan temas como la gestión de 
 Además de las conferencias que imparte, el IMAC también organiza otro tipo de evento llamado “El conversatorio” el cual consiste en un tipo de conferencia en las cuales traen a varios invitados, en su mayoría conferencistas que ocupan cargos importantes en empresas, corporaciones y asociaciones. En dichas conferencias se abordan temas de transformación digital, metodologías, enfoques, entre otros temas con enfoques tecnológicos y empresariales.
 
 
+## hjhajshah
+
+lkdankdak
